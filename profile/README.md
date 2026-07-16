@@ -37,9 +37,9 @@ Build a living engineering ecosystem where knowledge is not only collected but a
 - Teach to deepen understanding.
 - Continuously improve engineering craftsmanship.
 
-## Engineering University
+## Flagship curriculum
 
-The flagship initiative of this organization is **Engineering University** — a long-term educational project designed to help both an experienced engineer and a future engineer grow through practical learning, real projects, and continuous curiosity.
+The curriculum and campus OS live in **[univer](https://github.com/vil4engineering/univer)** — a long-term educational project designed to help both an experienced engineer and a future engineer grow through practical learning, real projects, and continuous curiosity.
 
 Knowledge is considered complete only when it can be:
 
@@ -48,10 +48,12 @@ Knowledge is considered complete only when it can be:
 3. Practiced.
 4. Reused.
 
-**Flagship repo:** [vil4engineering/engineering-university](https://github.com/vil4engineering/engineering-university)  
-**Campus site:** [vil4engineering.github.io/engineering-university](https://vil4engineering.github.io/engineering-university/)  
-**Discussions:** [Ask / Ideas / Labs](https://github.com/vil4engineering/engineering-university/discussions)  
-**Project board:** [Engineering University](https://github.com/orgs/vil4engineering/projects/1)
+| | |
+|--|--|
+| **Curriculum repo** | [vil4engineering/univer](https://github.com/vil4engineering/univer) |
+| **Site** | [vil4engineering.github.io/univer](https://vil4engineering.github.io/univer/) |
+| **Discussions** | [Ask / Ideas / Labs](https://github.com/vil4engineering/univer/discussions) |
+| **Project board** | [Board](https://github.com/orgs/vil4engineering/projects/1) |
 
 ## Repositories
 
