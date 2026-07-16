@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
   - name: Discussions
-    url: https://github.com/Engineering-University/Engineering-University.github.io/discussions
+    url: https://github.com/vil4engineering/engineering-university/discussions
     about: Questions, ideas, labs, book club, WWDC, AI, career craft, teaching.
   - name: Campus site
-    url: https://engineering-university.github.io/
+    url: https://vil4engineering.github.io/engineering-university/
     about: Curriculum, paths, and university documentation portal.

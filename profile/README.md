@@ -48,6 +48,11 @@ Knowledge is considered complete only when it can be:
 3. Practiced.
 4. Reused.
 
+**Flagship repo:** [vil4engineering/engineering-university](https://github.com/vil4engineering/engineering-university)  
+**Campus site:** [vil4engineering.github.io/engineering-university](https://vil4engineering.github.io/engineering-university/)  
+**Discussions:** [Ask / Ideas / Labs](https://github.com/vil4engineering/engineering-university/discussions)  
+**Project board:** [Engineering University](https://github.com/orgs/vil4engineering/projects/1)
+
 ## Repositories
 
 Every repository exists for at least one purpose:
