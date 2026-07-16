@@ -1,5 +1,9 @@
 # Engineering University
 
+<p align="center">
+  <img src="engineering-university-logo.jpg" alt="Engineering University logo" width="192" height="192">
+</p>
+
 Building engineers, not collecting knowledge.
 
 Living curriculum and campus OS for Software Engineering — with Mobile Systems as foundation faculty, and AI as both **tool** and **technology**.
